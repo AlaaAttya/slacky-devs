@@ -1,14 +1,14 @@
 # A curated list of slack groups for developers
 
 
-- [LaraChat] (https://larachat.co/)
-- [JavaScript specialists] (https://www.javaspecialists.eu/slack/)
-- [Hashtag developers] (http://www.hashtagdevelopers.com/)
-- [European dev explorer] (https://europeandevexplorer.typeform.com/to/MC3qnG)
-- [DevOps Chat] (https://devopschat.co/)
+- [LaraChat](https://larachat.co/)
+- [JavaScript specialists](https://www.javaspecialists.eu/slack/)
+- [Hashtag developers](http://www.hashtagdevelopers.com/)
+- [European dev explorer](https://europeandevexplorer.typeform.com/to/MC3qnG)
+- [DevOps Chat](https://devopschat.co/)
 - [scotch io chat](https://scotch-slack.herokuapp.com/)
 - [Elixir Chat](https://elixir-slackin.herokuapp.com/)
-- [Code Newbie] (https://codenewbie.typeform.com/to/uwsWlZ)
+- [Code Newbie](https://codenewbie.typeform.com/to/uwsWlZ)
 - [iOS developers chat](https://ios-developers.io/)
 - [Babeljs, add a comment to request an invitation](https://github.com/babel/notes/issues/38)
 - [Node slackers](http://www.nodeslackers.com/)
