@@ -18,3 +18,4 @@
 - [Symfony2](https://symfony-devs.slack.com/join/shared_invite/enQtMjkxNzA1NjUwMzczLTVkY2NmOWRjZmQzODkzMzgyYTI3NjYwYzg5OWYzZjMwZDMxZGQwMjczNWQ4MDQ5YjU4ZTNiYmI1ZGIwNjc5MjQ)
 - [Reactjs news](https://slack.reactjsnews.com/)
 - [Golang slack community](https://invite.slack.golangbridge.org/)
+- [The code - active Open Source community](https://community.emccode.com/)
