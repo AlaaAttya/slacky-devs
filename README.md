@@ -21,3 +21,4 @@
 - [The code - active Open Source community](https://community.emccode.com/)
 - [Kotlin lang](http://slack.kotlinlang.org/)
 - [ASP.NET Core](https://aspnetcore.slack.com/). Sign up [here](http://tattoocoder.com/aspnet-slack-sign-up/)
+- [Frontend Developers](http://frontenddevelopers.org/)
