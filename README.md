@@ -22,7 +22,7 @@
 - [Kotlin lang](http://slack.kotlinlang.org/)
 - [ASP.NET Core](https://aspnetcore.slack.com/). Sign up [here](http://tattoocoder.com/aspnet-slack-sign-up/)
 - [Frontend Developers](http://frontenddevelopers.org/)
-- [Drupal](https://drupal.slack.com)
+- [Drupal](https://drupal.slack.com). Request an invite [here](https://drupalslack.herokuapp.com/)
 - [amazeeio.io](https://amazeeio.slack.com)
 - [Wodby](https://wodby-community.slack.com)
 - [Traefik](https://traefik.slack.com)
